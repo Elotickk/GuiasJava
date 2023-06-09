@@ -1,3 +1,8 @@
+/* Ejercicio Nro. 8:
+Realizar un programa que permita el Ingreso de un número (X); luego calcular y mostrar sobre ese número las siguientes operaciones.
+- Mostrar el cuadrado de X
+- Mostrar la Raíz cuadrada de X
+- Mostrar el resultado de la siguiente operación: x3 */
 
 package GuiaNr1;
 import java.util.Scanner;

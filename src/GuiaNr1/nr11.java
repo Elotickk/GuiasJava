@@ -1,3 +1,6 @@
+/* Ejercicio Nro.11:
+Realizar un programa que permita el ingreso de dos números (A, B) y determine si la suma de ambos es mayor a 500. En ese caso mostrar un cartel diciendo que la suma de ambos superó a 500. */
+
 package GuiaNr1;
 import java.util.Scanner;
 

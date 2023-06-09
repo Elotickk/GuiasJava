@@ -3,6 +3,7 @@ Realizar un Programa que permita introducir 15 valores por teclado y para todos 
 - Suma Total de Todos los elementos (ACUMULADOR)
 - Cantidad Total de Todos los elementos (CONTADOR)
 - Promedio Total de Todos los elementos */
+
 package GuiaNr2;
 import java.util.Scanner;
 

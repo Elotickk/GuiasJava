@@ -1,5 +1,7 @@
-package GuiaNr1;
+/* Ejercicio Nro. 4:
+Realizar un programa que permita introducir tres valores y determine si la suma de los dos primeros es igual al tercer valor ingresado. */
 
+package GuiaNr1;
 import java.util.Scanner;
 
 public class nr4 {

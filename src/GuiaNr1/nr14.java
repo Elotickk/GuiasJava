@@ -1,4 +1,5 @@
 //Realizar un programa declarando dos variables (X, Y) y para un valor ingresado de X obtener el siguiente resultado y guardarlo en Y.
+
 package GuiaNr1;
 import java.util.Scanner;
 

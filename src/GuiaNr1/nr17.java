@@ -4,6 +4,7 @@
 
 //Raíz x1 = (-b + raíz (b2 – 4 * a * c)) / 2 * a
 //Raíz x2 = (-b - raíz (b2 – 4 * a * c)) / 2 * a
+
 package GuiaNr1;
 import java.util.Scanner;
 

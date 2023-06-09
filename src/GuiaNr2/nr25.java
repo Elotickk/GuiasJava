@@ -12,6 +12,7 @@ o Cantidad total de elementos comprendidos entre 25 y 50
 o Suma total de elementos comprendidos entre 25 y 50
 o Promedio de todos los números comprendidos entre 25 y 50
 Nota: Controlar que al realizar los promedios las cantidades no sean igual a cero; ya que al calcular el cociente podría dar una indeterminación. */
+
 package GuiaNr2;
 import java.util.Scanner;
 

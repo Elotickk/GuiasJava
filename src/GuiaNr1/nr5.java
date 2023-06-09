@@ -1,5 +1,7 @@
-package GuiaNr1;
+/* Ejercicio Nro.5:
+Realizar un programa que permita introducir un valor (X) y determinar si el mismo es PAR ó IMPAR. */
 
+package GuiaNr1;
 import java.util.Scanner;
 
 public class nr5 {

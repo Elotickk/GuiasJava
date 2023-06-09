@@ -1,5 +1,12 @@
-package GuiaNr1;
+/* Ejercicio Nro.6:
+Realizar un programa que permita ingresar por teclado un valor que represente un importe en pesos y a eso convertirlo a diferentes monedas según la cotización actual de esa moneda. Por ejemplo:
+Valor en Pesos Argentinos: 45,20
+El programa debería calcular
+Valor en dólares: =
+Valor en Euros:=
+Valor en Reales (Moneda Brasileña):= */
 
+package GuiaNr1;
 import java.util.Scanner;
 
 public class nr6 {

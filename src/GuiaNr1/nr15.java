@@ -1,6 +1,7 @@
 //Ejercicio Nro.15:
 //Realizar un programa declarando dos variables (X, Y) y para un valor ingresado de X obtener el siguiente resultado y guardarlo en Y.
 //Y = 2 * X2 + 3 * X + 1
+
 package GuiaNr1;
 import java.util.Scanner;
 

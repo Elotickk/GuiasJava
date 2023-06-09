@@ -3,6 +3,7 @@ Siendo a un valor que el operador deberá ingresar por teclado
 Siendo b un valor que el operador deberá ingresar por teclado
 Siendo x los valores que irán cambiando desde (0 a 400)
 Nota: Ud. A partir del siguiente ejercicio obtendrá dos valores (X,Y) de la siguiente forma; haga que el gatito se desplace gráficamente por esos pares de coordenadas*/
+
 package GuiaNr2;
 import java.util.Scanner;
 

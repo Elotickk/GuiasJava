@@ -1,6 +1,7 @@
 /*Ejercicio Nro. 29: (Estructuras Repetitivas + Contador)
 Realizar un programa que obtenga los valores que asume la siguiente función cuadrática (y = x2), para valores de x comprendidos entre (0 y 400).
 Nota: Ud. A partir del siguiente ejercicio obtendrá dos valores (X,Y) ; haga que el gatito se desplace gráficamente por esos pares de coordenadas. */
+
 package GuiaNr2;
 import java.util.Scanner;
 

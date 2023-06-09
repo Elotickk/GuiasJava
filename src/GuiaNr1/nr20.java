@@ -2,6 +2,7 @@
 //Realizar un programa que permita el ingreso de 6 números que solamente deben estar
 //comprendidos entre (0 y 10) “Los números ingresados no pueden ser ni mayores a 10, ni menores
 //a cero”. Luego realizar la Suma de Todos ellos y mostrar el Promedio.
+
 package GuiaNr1;
 import java.util.Scanner;
 

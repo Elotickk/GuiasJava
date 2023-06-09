@@ -1,3 +1,6 @@
+/* Ejercicio Nro. 9:
+Realizar un programa que permita introducir dos números (A, B) y determine cuál es el mayor de los dos. */
+
 package GuiaNr1;
 import java.util.Scanner;
 

@@ -1,5 +1,7 @@
-package GuiaNr1;
+/* Ejercicio Nro. 7:
+Dado los lados de un rectángulo (Base y Altura) determinar la superficie de los mismos. */
 
+package GuiaNr1;
 import java.util.Scanner;
 
 public class nr7 {

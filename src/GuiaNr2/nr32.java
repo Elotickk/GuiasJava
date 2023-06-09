@@ -3,6 +3,7 @@ Realizar un programa que almacene una cadena de texto en una variable (que deber
 - Largo de la Cadena
 - Obtener el primer caracter de la cadena y guardarlo en una variable; mostrar esa letra por pantalla.
 - Obtener el último caracter de la cadena y guardarlo en una variable; mostrar esa letra por pantalla. */
+
 package GuiaNr2;
 import java.util.Scanner;
 

@@ -1,3 +1,6 @@
+/* Ejercicio Nro.3:
+Realizar un programa que permita ingresar una cantidad determinada de días y en función de ello convierta los días en segundos.*/
+
 package GuiaNr1;
 
 import java.util.Scanner;

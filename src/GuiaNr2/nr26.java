@@ -1,5 +1,6 @@
 /*Realizar un programa que obtenga los valores que asume la siguiente función lineal (Y = 2 * X – 3), para valores de x comprendidos entre (0 y 400).
 Nota: Ud. A partir del siguiente ejercicio obtendrá dos valores (X,Y) de la siguiente forma; haga que el gatito se desplace gráficamente por esos pares de coordenadas */
+
 package GuiaNr2;
 import java.util.Scanner;
 

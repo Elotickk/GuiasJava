@@ -5,6 +5,7 @@
 
 //La Suma total de todos los números Ingresados
 //El Promedio de todos los números ingresados
+
 package GuiaNr1;
 import java.util.Scanner;
 

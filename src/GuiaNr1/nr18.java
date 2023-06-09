@@ -1,6 +1,7 @@
 //Ejercicio Nro. 18:
 //Realice un programa que permita ingresar dos números que representarán hora de Salida y Hora de llegada de un vehículo.
 //Controlar que la Hora de Llegada sea mayor a la hora de salida. Si estos valores fueron bien ingresados calcular la velocidad en la que llega un vehículo sabiendo que recorrió una distancia "D".
+
 package GuiaNr1;
 import java.util.Scanner;
 

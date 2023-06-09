@@ -7,6 +7,7 @@ Realizar un programa que permita el ingreso de 10 números por teclado y determi
 - Promedio total de todos los números ingresados
 - Si el Promedio es mayor que 10 obtener el 10% del mayor valor y mostrarlo por teclado
 - Si el Promedio es menor que 10 obtener el 15% del menor valor y mostrarlo por teclado. */
+
 package GuiaNr2;
 import java.util.Scanner;
 

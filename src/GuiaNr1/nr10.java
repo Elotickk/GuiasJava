@@ -1,3 +1,6 @@
+/* Ejercicio Nro.10:
+Escribir un algoritmo que determine si un número N es divisible por M. */
+
 package GuiaNr1;
 import java.util.Scanner;
 

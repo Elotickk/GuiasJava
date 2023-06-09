@@ -8,6 +8,7 @@ Realizar un Programa que permita ingresar 10 números y que para todos ellos rea
 - Promedio de números impares
 - Sumar la Cantidad total de elementos ingresados
 Nota: Controlar que al realizar los promedios las cantidades no sean igual a cero; ya que al calcular el cociente podría dar una indeterminación. */
+
 package GuiaNr2;
 import java.util.Scanner;
 

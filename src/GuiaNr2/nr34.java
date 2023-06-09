@@ -3,6 +3,7 @@ Realizar un programa que almacene una cadena de texto en una variable (que deber
 - Contar la cantidad de veces que aparece la letra A
 - Contar la cantidad de veces que aparece la letra E
 - Determinar cuál de las dos letras aparece más que la otra dentro de la cadena */
+
 package GuiaNr2;
 import java.util.Scanner;
 
